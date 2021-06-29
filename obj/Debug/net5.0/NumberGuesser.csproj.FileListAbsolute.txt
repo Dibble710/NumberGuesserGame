@@ -1,0 +1,15 @@
+/Users/tylerantoni/NumberGuesser/bin/Debug/net5.0/NumberGuesser.deps.json
+/Users/tylerantoni/NumberGuesser/bin/Debug/net5.0/NumberGuesser.runtimeconfig.json
+/Users/tylerantoni/NumberGuesser/bin/Debug/net5.0/NumberGuesser.runtimeconfig.dev.json
+/Users/tylerantoni/NumberGuesser/bin/Debug/net5.0/NumberGuesser.dll
+/Users/tylerantoni/NumberGuesser/bin/Debug/net5.0/ref/NumberGuesser.dll
+/Users/tylerantoni/NumberGuesser/bin/Debug/net5.0/NumberGuesser.pdb
+/Users/tylerantoni/NumberGuesser/obj/Debug/net5.0/NumberGuesser.csprojAssemblyReference.cache
+/Users/tylerantoni/NumberGuesser/obj/Debug/net5.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerantoni/NumberGuesser/obj/Debug/net5.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/tylerantoni/NumberGuesser/obj/Debug/net5.0/NumberGuesser.AssemblyInfo.cs
+/Users/tylerantoni/NumberGuesser/obj/Debug/net5.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/tylerantoni/NumberGuesser/obj/Debug/net5.0/NumberGuesser.dll
+/Users/tylerantoni/NumberGuesser/obj/Debug/net5.0/ref/NumberGuesser.dll
+/Users/tylerantoni/NumberGuesser/obj/Debug/net5.0/NumberGuesser.pdb
+/Users/tylerantoni/NumberGuesser/obj/Debug/net5.0/NumberGuesser.genruntimeconfig.cache
