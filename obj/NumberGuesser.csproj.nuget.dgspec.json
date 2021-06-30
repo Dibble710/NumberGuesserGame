@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tylerantoni/NumberGuesser/NumberGuesser.csproj": {}
+    "/Users/tylerantoni/Desktop/NumberGuesser/NumberGuesser.csproj": {}
   },
   "projects": {
-    "/Users/tylerantoni/NumberGuesser/NumberGuesser.csproj": {
+    "/Users/tylerantoni/Desktop/NumberGuesser/NumberGuesser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tylerantoni/NumberGuesser/NumberGuesser.csproj",
+        "projectUniqueName": "/Users/tylerantoni/Desktop/NumberGuesser/NumberGuesser.csproj",
         "projectName": "NumberGuesser",
-        "projectPath": "/Users/tylerantoni/NumberGuesser/NumberGuesser.csproj",
+        "projectPath": "/Users/tylerantoni/Desktop/NumberGuesser/NumberGuesser.csproj",
         "packagesPath": "/Users/tylerantoni/.nuget/packages/",
-        "outputPath": "/Users/tylerantoni/NumberGuesser/obj/",
+        "outputPath": "/Users/tylerantoni/Desktop/NumberGuesser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tylerantoni/.nuget/NuGet/NuGet.Config"
